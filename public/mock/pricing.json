@@ -1,0 +1,19 @@
+{
+  "data": {
+    "5GB": 10,
+    "10GB": 20,
+    "15GB": 30,
+    "Unlimited": 50
+  },
+  "talk": {
+    "none": 0,
+    "100_mins": 5,
+    "unlimited": 15
+  },
+  "text": {
+    "none": 0,
+    "500_texts": 3,
+    "unlimited": 10
+  }
+}
+
